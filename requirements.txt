@@ -1,4 +1,7 @@
 streamlit
 numpy
+PIL
 matplotlib
 torch
+torchvision
+torchaudio
