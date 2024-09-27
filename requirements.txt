@@ -1,6 +1,6 @@
 streamlit
+pillow
 numpy
 matplotlib
 torch
 torchvision
-torchaudio
